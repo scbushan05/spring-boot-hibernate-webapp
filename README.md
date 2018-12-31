@@ -12,19 +12,19 @@ The  goal of the application is to create a web application with Spring boot, hi
 
 ## Steps to install
 
-**1. Clone the application **
+**1. Clone the application**
 
 ```bash
 https://github.com/scbushan05/spring-boot-hibernate-webapp.git
 ```
 
-**2. Create MySQL database **
+**2. Create MySQL database**
 
 ```sql
 CREATE DATABASE crudapi
 ```
 
-**3. Create table or run the sql script file **
+**3. Create table or run the sql script file**
 
 ```sql
 CREATE DATABASE crudapi;
