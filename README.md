@@ -72,7 +72,7 @@ You can find the `video tutorial` for this application on my youtube channel -
 
 You can find the tutorial for this application on my blog -
 
-<http://bushansirgur.in/>
+<https://bushansirgur.in/complete-crud-application-with-spring-boot-hibernate-and-mysql/>
 
 You can subscribe to our Youtube channel -
 
